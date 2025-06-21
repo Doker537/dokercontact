@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
     title: "Doker - Профессиональная фото и видео съемка",
     description:
-        "Все самые важные ссылки..",
+        "Все самые важные ссылки.",
     keywords: "фотограф, видеограф, съемка, контент, реклама, социальные сети, бизнес",
     generator: 'v0.dev'
 }
