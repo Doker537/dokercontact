@@ -6,16 +6,10 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Doker Contact",
-  description: "",
-  openGraph: {
-    title: "Doker Contact",
-    description: "",
-  },
-  twitter: {
-    title: "Doker Contact",
-    description: "",
-  },
+    title: "Doker - Профессиональная фото и видео съемка",
+    description:
+        "Все самые важные ссылки.",
+    keywords: "фотограф, видеограф, съемка, контент, реклама, социальные сети, бизнес",
     generator: 'v0.dev'
 }
 
